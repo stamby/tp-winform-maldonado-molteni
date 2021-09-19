@@ -1,0 +1,12 @@
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Dominio\bin\Debug\Dominio.dll
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Dominio\bin\Debug\Dominio.pdb
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.dll
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Dominio\bin\Debug\Dominio.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Dominio\obj\Debug\Dominio.pdb

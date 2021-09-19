@@ -1,0 +1,18 @@
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\bin\Debug\Negocio.dll
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\bin\Debug\Negocio.pdb
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\bin\Debug\Dominio.dll
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\bin\Debug\Dominio.pdb
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.dll
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.pdb
+C:\Users\santy\Desktop\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\bin\Debug\Negocio.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\bin\Debug\Dominio.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\bin\Debug\Dominio.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Negocio\obj\Debug\Negocio.pdb
