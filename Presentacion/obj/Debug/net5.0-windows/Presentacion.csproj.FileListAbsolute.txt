@@ -1,0 +1,120 @@
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Presentacion.exe
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Presentacion.deps.json
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.json
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.dev.json
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Presentacion.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.Gestor.resources
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Dominio.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Negocio.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Negocio.pdb
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\Dominio.pdb
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\obj\Debug\net5.0-windows\Presentacion.formArticulo.resources
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\source\repos\GestorArticulosComerciales\Presentacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Presentacion.exe
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Presentacion.deps.json
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.json
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.dev.json
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Presentacion.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Dominio.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Negocio.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Negocio.pdb
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\bin\Debug\net5.0-windows\Dominio.pdb
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.Gestor.resources
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.formArticulo.resources
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\Brendo Tortellini\Desktop\Actividad2\Presentacion\obj\Debug\net5.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Presentacion.exe
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Presentacion.deps.json
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.json
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.dev.json
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Presentacion.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Dominio.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Negocio.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Negocio.pdb
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\bin\Debug\net5.0-windows\Dominio.pdb
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.Gestor.resources
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.formArticulo.resources
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\USER\Desktop\pruebasolucion\Actividad2-master\Presentacion\obj\Debug\net5.0-windows\Presentacion.genruntimeconfig.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.csprojAssemblyReference.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.Gestor.resources
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.formArticulo.resources
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.GenerateResource.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfoInputs.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.AssemblyInfo.cs
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Presentacion.exe
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Presentacion.deps.json
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.json
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Presentacion.runtimeconfig.dev.json
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Presentacion.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\ref\Presentacion.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Presentacion.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Dominio.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Negocio.dll
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Negocio.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\bin\Debug\net5.0-windows\Dominio.pdb
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.csproj.CopyComplete
+C:\Users\Brendo Tortellini\Downloads\TP1_Maldonado_Molteni\Presentacion\obj\Debug\net5.0-windows\Presentacion.genruntimeconfig.cache
