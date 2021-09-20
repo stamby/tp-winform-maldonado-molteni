@@ -9,6 +9,25 @@ namespace Negocio
 {
     public class CategoriaNegocio
     {
+        public Categoria DesdeDescripcion(string Descripcion)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            datos.SetearConsulta("Select Id from Categorias where Descripcion = @Descripcion");
+            datos.SetearParametros("@Descripcion", Descripcion);
+            datos.EjecutarLectura();
+
+            Categoria aux = new Categoria();
+
+            if (datos.Lector.Read())
+            {
+                aux.Id = (int)datos.Lector["Id"];
+                aux.DescripcionCategoria = Descripcion;
+                return aux;
+            }
+            else
+                return null;
+        }
         public List<Categoria> ListarCategoria()
         {
             List<Categoria> lista = new List<Categoria>();

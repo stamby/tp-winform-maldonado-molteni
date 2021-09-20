@@ -492,11 +492,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brendo Tortellini\\Downloads\\TP1_Maldonado_Molteni\\Presentacion\\Presentacion.csproj",
+      "projectUniqueName": "C:\\Users\\Brendo Tortellini\\Desktop\\tp-winform-maldonado-molteni\\Presentacion\\Presentacion.csproj",
       "projectName": "Presentacion",
-      "projectPath": "C:\\Users\\Brendo Tortellini\\Downloads\\TP1_Maldonado_Molteni\\Presentacion\\Presentacion.csproj",
+      "projectPath": "C:\\Users\\Brendo Tortellini\\Desktop\\tp-winform-maldonado-molteni\\Presentacion\\Presentacion.csproj",
       "packagesPath": "C:\\Users\\Brendo Tortellini\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brendo Tortellini\\Downloads\\TP1_Maldonado_Molteni\\Presentacion\\obj\\",
+      "outputPath": "C:\\Users\\Brendo Tortellini\\Desktop\\tp-winform-maldonado-molteni\\Presentacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -517,8 +517,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Brendo Tortellini\\Downloads\\TP1_Maldonado_Molteni\\Negocio\\Negocio.csproj": {
-              "projectPath": "C:\\Users\\Brendo Tortellini\\Downloads\\TP1_Maldonado_Molteni\\Negocio\\Negocio.csproj"
+            "C:\\Users\\Brendo Tortellini\\Desktop\\tp-winform-maldonado-molteni\\Negocio\\Negocio.csproj": {
+              "projectPath": "C:\\Users\\Brendo Tortellini\\Desktop\\tp-winform-maldonado-molteni\\Negocio\\Negocio.csproj"
             }
           }
         }

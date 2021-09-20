@@ -9,6 +9,25 @@ namespace Negocio
 {
     public class MarcaNegocio
     {
+        public Marca DesdeDescripcion(string Descripcion)
+        {
+            AccesoDatos datos = new AccesoDatos();
+
+            datos.SetearConsulta("Select Id from Marcas where Descripcion = @Descripcion");
+            datos.SetearParametros("@Descripcion", Descripcion);
+            datos.EjecutarLectura();
+
+            Marca aux = new Marca();
+
+            if (datos.Lector.Read())
+            {
+                aux.Id = (int)datos.Lector["Id"];
+                aux.DescripcionMarca = Descripcion;
+                return aux;
+            }
+            else
+                return null;
+        }
         public Marca DesdeID(int ID)
         {
             AccesoDatos acceso = new AccesoDatos();

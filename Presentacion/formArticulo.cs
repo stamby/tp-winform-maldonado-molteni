@@ -54,6 +54,8 @@ namespace Presentacion
                     txtCodigo.Text = articulo.Codigo;
                     txtNombre.Text = articulo.Nombre;
                     txtDesc.Text = articulo.Descripcion;
+                    cboMarca.SelectedIndex = cboMarca.FindStringExact(articulo.Marca.DescripcionMarca);
+                    comboBox1.SelectedIndex = comboBox1.FindStringExact(articulo.Tipo.DescripcionCategoria);
                     txtUrl.Text = articulo.ImagenUrl;
                     txtPrecio.Text = articulo.Precio.ToString("F2");
                     try
@@ -108,15 +110,16 @@ namespace Presentacion
                 articulo.Nombre = txtNombre.Text;
             }
 
-            articulo.Marca = (Marca)cboMarca.SelectedItem;
-
+            MarcaNegocio marcaNegocio = new MarcaNegocio();
+            articulo.Marca = marcaNegocio.DesdeDescripcion(cboMarca.Text);
             if (articulo.Marca == null)
             {
                 MessageBox.Show("Seleccione una marca de la lista desplegable.");
                 return;
             }
 
-            articulo.Tipo = (Categoria)comboBox1.SelectedItem;
+            CategoriaNegocio categoriaNegocio = new CategoriaNegocio();
+            articulo.Tipo = categoriaNegocio.DesdeDescripcion(comboBox1.Text);
             if (articulo.Tipo == null)
             {
                 MessageBox.Show("Elegir la categoría del artículo.", "Error");
@@ -159,10 +162,6 @@ namespace Presentacion
                     artNegocio.AgregarArticulo(articulo);
                     MessageBox.Show("Se ha agregado el artículo al catálogo.", "Mensaje");
                 }
-                catch (Exception ex)
-                {
-                    throw ex;
-                }
                 finally
                 {
                     Close();
@@ -174,10 +173,6 @@ namespace Presentacion
                 {
                     artNegocio.EditarArticulo(articulo);
                     MessageBox.Show("Se ha modificado el artículo en el catálogo.", "Mensaje");
-                }
-                catch (Exception ex)
-                {
-                    throw ex;
                 }
                 finally
                 {

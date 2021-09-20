@@ -42,14 +42,7 @@ namespace Presentacion
             }
             catch
             {
-                try
-                {
-                    pbArticulo.Load("404.png");
-                }
-                catch (Exception ex2)
-                {
-                    throw ex2;
-                }
+                pbArticulo.Load("404.png");
             }
         }
 
